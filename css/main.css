@@ -1,0 +1,223 @@
+body
+{
+margin:0;
+color: #222;
+}
+div.navigation
+{
+	height: 75px;
+}
+.cta
+{
+	height: 364px;
+	margin-top: 150px;
+}
+* 
+{
+	color: #000;
+}
+div
+{
+	display: block;
+}
+div.navigation ul
+{
+	float: right;
+	margin-right: 25px;
+	margin-top: 0;
+	font-family: 'Oswald', sans-serif;
+
+}
+ul
+{
+	display:block;
+	list-style-type: disc;
+	font-family: 'Rock Salt', cursive;
+
+
+}
+
+div.navigation li
+{
+	display: inline-block;
+	font-size: 13px;
+	margin: 5px 5px 0 0;
+	padding: 5px 10px 0 0;
+	vertical-align: bottom;
+	
+	
+
+}
+
+.fa
+{   cursor: default;
+    font-size: 16px !important;
+    opacity: 0.7;
+    vertical-align: top;
+    display: inline-block;
+  font-family: 'Bad Script', cursive;
+}
+
+.share{
+	background-color: #f2f2f2;
+	cursor:default;
+	padding: 10px 15px;
+}
+.share:hover
+{
+	background-color: #e1e1e1;
+	cursor: pointer;
+
+}
+
+li
+{
+	text-align: -webkit-match-parent;
+	font-family: 'Modak', cursive;
+
+}
+
+.fa-bell:before
+{
+	content: "\f0f3";
+
+}
+
+.profile
+{
+	    border-radius: 25px;
+    	height: 32px;
+    	position: relative;
+    	top: 10px;
+    	width: 32px;
+}
+
+.cta .logo
+{
+	text-align: center;
+}
+
+.cta input
+{
+
+	border: 1px solid #d9d9d9;
+	display: block;
+	font-size: 16px;
+	height: 30px;
+	margin: auto;
+	padding: 5px;
+	width: 45%;
+}
+.search
+
+{
+	text-align: center;
+	font-family: 'Kalam', cursive;
+
+}
+.search button
+{
+	background-color: #f5f5f5;
+	border: 1px solid;
+	border-radius: 2px;
+	color: grey;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 17px 6px;
+	font-family: 'Kalam', cursive;
+	padding: 10px 15px;
+}
+
+.search button:hover
+{
+	background-color: #f8f8f8;
+	border: 1px solid #c6c6c6;
+	color:#333;
+}
+div.footer ul.left
+{
+	float:left;
+}
+div.footer
+{
+	background-color: #f5f5f5;
+	border-top: 1px solid #e4e4e4;
+	bottom: 0;
+	font-size: 10px;
+	height: 50px;
+	position: fixed;
+	width: 100%;
+
+}
+div.footer li
+{
+	display: inline-block;
+	font-size: 13px;
+	margin: 5px 5px 0 0;
+	padding: 5px 10px 0 0;
+	vertical-align: bottom;
+
+}
+
+a
+{
+	color: #222;
+	text-decoration: none;
+
+}
+a.hover
+{
+	color: #222;
+	text-decoration: underline;
+}
+
+a.button:hover
+{
+	text-decoration: none;
+
+}
+
+div.footer ul.right
+{
+	float: right;
+	padding-right: 40px;
+}
+}
+
+html
+{
+	display: block;
+
+}
+
+head
+{
+	display: none;
+
+}
+
+div.navigation a 
+{
+	color: #626056;
+	font-size: 14px;
+}
+
+div.natigation a:hover
+{
+	color: black;
+
+}
+
+.fa:hover
+{
+	cursor: pointer;
+	opacity: 1;
+}
+
+
+
+
+
+    
+
